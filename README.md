@@ -18,7 +18,7 @@ I'm Shaked! I'm a student studying:
 -   ML, AI, Deep learning.
 -   Mathematical models.
 
-**How to reach me**
+**How to reach me:**
 
 -   Discord: ViCE#2286
 -   Email: shakedwaiss [at] gmail.com (_State why you are contacting me_)
