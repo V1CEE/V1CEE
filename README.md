@@ -1,16 +1,27 @@
 ### Hi there 👋
 
-<!--
-**V1CEE/V1CEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello!
+I'm Shaked! I'm a student studying:
 
-Here are some ideas to get you started:
+-   Applied mathematics, B.Sc.
+-   Computer Science, B.Sc.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**I mostly code my projects with:**
+
+-   Python.
+-   Javascript.
+-   C / C# / C++
+
+**Projects**  I usually persue projects involving:
+
+-   Data science.
+-   ML, AI, Deep learning.
+-   Mathematical models.
+
+**How to reach me**
+
+-   Discord: ViCE#2286
+-   Email: shakedwaiss [at] gmail.com (_State why you are contacting me_)
+    -   Feel free to contact me in any of these languages:
+        -   English
+        -   Hebrew
